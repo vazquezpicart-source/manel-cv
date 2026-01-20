@@ -1,8 +1,8 @@
 body {
   margin: 0;
   font-family: system-ui, sans-serif;
-  
-  background: yellow;
+  background: #f7f7f7;
+ 
 }
 
   color: #222;
@@ -36,4 +36,5 @@ body {
   padding: 0 1rem;
 
 }
+
 
