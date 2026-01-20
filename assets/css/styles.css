@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: system-ui, sans-serif;
- # background: #f7f7f7;
+  
   background: yellow;
 }
 
@@ -36,3 +36,4 @@ body {
   padding: 0 1rem;
 
 }
+
