@@ -695,6 +695,39 @@ body {
   margin-bottom: 2rem;
   color: #4f46e5;
 }
+.skills-full {
+  max-width: 1100px;
+  margin: 4rem auto;
+  padding: 0 1.5rem;
+}
+
+.skills-full h2 {
+  font-size: 2rem;
+  margin-bottom: 2rem;
+  color: #4f46e5;
+}
+
+.skills-full-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 2rem;
+}
+
+.skill-group h3 {
+  color: #4f46e5;
+  margin-bottom: 0.8rem;
+}
+
+.skill-group ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.skill-group li {
+  margin-bottom: 0.5rem;
+  color: #333;
+}
+
 
 
 
