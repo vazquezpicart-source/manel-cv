@@ -595,6 +595,25 @@ body {
     transform: translateY(0);
   }
 }
+.about {
+  max-width: 900px;
+  margin: 4rem auto;
+  padding: 0 1.5rem;
+}
+
+.about-container h2 {
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+  color: #4f46e5;
+}
+
+.about-container p {
+  line-height: 1.7;
+  margin-bottom: 1rem;
+  color: #333;
+  font-size: 1.05rem;
+}
+
 
 
 
