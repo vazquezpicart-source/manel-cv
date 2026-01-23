@@ -664,6 +664,27 @@ body {
   background: #9ca3af;
   pointer-events: none;
 }
+.project-detail {
+  max-width: 900px;
+  margin: 4rem auto;
+  padding: 0 1.5rem;
+}
+
+.project-detail h2 {
+  margin-top: 2rem;
+  color: #4f46e5;
+}
+
+.project-detail p, 
+.project-detail ul {
+  line-height: 1.7;
+  color: #333;
+}
+
+.project-detail ul {
+  margin-left: 1.2rem;
+}
+
 
 
 
